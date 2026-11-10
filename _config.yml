@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint-dark" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr."
 title_separator          : "-"
 name                     : &name "Ineta Kačergytė"
@@ -61,7 +61,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : "https://www.goodreads.com/user/show/56787869-ineta"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
@@ -81,6 +81,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  StoryGraph       : "https://app.thestorygraph.com/profile/ineta"
+ 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
