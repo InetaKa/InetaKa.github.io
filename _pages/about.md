@@ -21,7 +21,5 @@ Currently, I am conducting postdoctoral research, in which I will continue to in
 
 How to pronounce Ineta Kačergytė
 ======
-Click here to hear it! https://namedrop.io/inetakacergyte 
+Click [here] (https://namedrop.io/inetakacergyte) to hear it! 
 
-Getting started
-======
